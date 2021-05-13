@@ -1,0 +1,26 @@
+.body {
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+
+
+    }
+   
+
+
+.container {
+    width: 100%;
+    position: absolute;
+    top: 5%;
+    text-align: center;
+    color:rgba(218, 5, 5, 0.945);
+  
+}
+
+.container h1 {
+    font-size:x-small;
+    font-weight: 300;
+    font-family: fantasy;
+  
+}
+
